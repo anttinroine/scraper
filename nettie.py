@@ -8,7 +8,7 @@ from random import randrange
 # lisättäviä asioita:
 # moottorin koko span class engine size
 
-#base_url sisältää avensiksen tietyillä spekseillä-
+#base_url sisältää avensiksen tietyillä spekseillä. Automerkkiä ja mallia voi vaihtaa url:ää editoimalla. 
 base_url='https://www.nettiauto.com/toyota/avensis'
 hinnasto = []
 x=1
